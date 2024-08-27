@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "Bolo de Chocolate",
+    "ingredientes": "Farinha, Açúcar, Cacau, Fermento, Ovos, Leite",
+    "tempoPreparo": "20 horas",
+    "modoPreparo": "Misture todos os ingredientes e asse em forno pré-aquecido a 180°C por 40 minutos."
+  },
+  {
+    "name": "bolo de ababb",
+    "ingredients": "jadladliaj",
+    "time": "20",
+    "method": "casas"
+  },
+  {
+    "name": "bolo de adbdovabd",
+    "ingredients": "uovuaisnj",
+    "time": "30",
+    "method": "casas"
+  },
+  {
+    "name": "bolo de oadvvoadb",
+    "ingredients": "fnasfifad",
+    "time": "50",
+    "method": "casas"
+  },
+  {
+    "id": 1724457161418,
+    "name": "Tales",
+    "ingredients": "CU do Tales",
+    "time": "1 segundp",
+    "method": "comer"
+  }
+]
